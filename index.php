@@ -67,6 +67,7 @@
           </div>
           <div class="col-md-12">
             <h4 class="mt-4">Ajouter un document</h4>
+            <h1>J'aime Les Gros Sexes</h1>
             <div class="form-check form-check-inline mt-4">
               <input type="file" class="custom-file-input" id="fichier" hidden>
               <i id="ajouter_fichier" class="fas fa-file-upload"></i>
@@ -76,6 +77,8 @@
           </div>
         </div>
         <div class="row mt-4">
+       
+
           <div class="col-md-4">
             <h4 class="mt-4">Liste des cours</h4>
             <div id="cours_documents" class="mt-4">
@@ -83,7 +86,6 @@
             </div>
           </div>
           <div class="col-md-8" id="affichage_document">
-          <h1>J'aime Les Gros Sexes</h1>
 
           </div>
         </div>
