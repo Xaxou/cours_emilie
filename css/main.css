@@ -1,0 +1,32 @@
+#menu-toggle:hover
+{
+    color: rgb(130, 20, 173);
+    cursor: pointer;
+}
+
+#ajouter_fichier
+{
+    font-size: 42px;
+}
+
+#ajouter_fichier:hover{
+    cursor: pointer;
+    color: rgb(130, 20, 173);
+}
+
+#liste_cours .select
+{
+    background-color: rgb(121, 69, 141) !important;
+    color: #ffffff;
+}
+
+#ajouter_cours
+{
+    background-color:  rgb(121, 69, 141);
+    border: none;
+}
+
+#cours_nom
+{
+    color: rgb(121, 69, 141);
+}
