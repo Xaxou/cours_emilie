@@ -67,7 +67,6 @@
           </div>
           <div class="col-md-12">
             <h4 class="mt-4">Ajouter un document</h4>
-            <h1>J'aime Les Gros Sexes</h1>
             <div class="form-check form-check-inline mt-4">
               <input type="file" class="custom-file-input" id="fichier" hidden>
               <i id="ajouter_fichier" class="fas fa-file-upload"></i>
