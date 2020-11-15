@@ -71,13 +71,11 @@
               <input type="file" class="custom-file-input" id="fichier" hidden>
               <i id="ajouter_fichier" class="fas fa-file-upload"></i>
               <label id="lbl_nom_fichier" class="form-check-label ml-2" for="ajouter_fichier"></label>
-              <button id="envoyer_fichier" data-idcours="0"; type="button" class="btn btn-outline-primary ml-4">Ajouter</button>
+              <button id="envoyer_fichier" data-idcours="1"; type="button" class="btn btn-outline-primary ml-4">Ajouter</button>
             </div>
           </div>
         </div>
         <div class="row mt-4">
-       
-
           <div class="col-md-4">
             <h4 class="mt-4">Liste des cours</h4>
             <div id="cours_documents" class="mt-4">
